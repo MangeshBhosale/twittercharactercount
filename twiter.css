@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #e1e5ea;
+}
+#title{
+    color: #1597bb;
+    text-align: center;
+    margin-top: 12%;
+}
+#border{
+    border-radius: 25px;
+
+    border: 2px solid #a7bbc7;
+    background: #73AD21;
+    margin:03% 20%
+   
+   
+}
+#input{
+    padding:04% 02% 08% 02%;
+    text-align:center;
+    border-radius: 25px;
+    background: white;
+    border: 2px solid  #a7bbc7;
+}
+#text{
+    border: 2px solid #1597bb;
+    background:white;
+}
+#tweet{
+    border-radius: 15px;
+    background-color: #fff;
+    border: 2px solid#1597bb;
+    
+}
+#last{
+    display: inline-block;
+    color: #1597bb;
+    float: left;
+    position: absolute;
+    left:50%;
+    top: 55%;
+}
+#charNum{
+    display: inline-block;
+}
